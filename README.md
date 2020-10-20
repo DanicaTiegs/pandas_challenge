@@ -4,5 +4,5 @@ This report contains the district summary, school summary, top performing school
 # analysis
 Based on the analysis of the data provided, two notable conclusions we can draw are as follows: 
 
-1. The greater the dollar increase of "budget per student," the lower the average test scores for all students. 
+1. The greater the dollar increase of "budget per student," the lower the average test scores for students across all grade levels. 
 2. Charter schools have notably higher test scores than district schools.
